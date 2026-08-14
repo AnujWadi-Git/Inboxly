@@ -11,6 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](#-license)
 [![Powered by](https://img.shields.io/badge/powered%20by-Claude-orange)](https://claude.com)
 
+By - Anuj Wadi
 </div>
 
 ---
